@@ -1,0 +1,11 @@
+Link para download do Git: https://git-scm.com/download/win
+O Git Bash é um terminal extendido para otimizar o uso do Git. 
+
+Link para download do Typora: https://typora.io/
+O Typora é um editor de texto markdown, que tem como um dos pontos fortes sua interface minimalista e o custo-benefício
+
+Link para download do VSCode: https://code.visualstudio.com/download
+O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle de versionamento Git incorporado.
+
+Link para meu Linkedin: https://www.linkedin.com/in/maria-leticia-santos-pequeno-5b653b1ab/
+Mandem Jobs  😜
